@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "app-legal-compliance",
+  "owner": {
+    "name": "G-Cristhian",
+    "url": "https://github.com/G-Cristhian"
+  },
+  "description": "Install App Legal Compliance as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "app-legal-compliance",
+      "source": "./",
+      "description": "Check applications against laws that commonly result in lawsuits: ADA/WCAG, GDPR, CCPA, COPPA, BIPA, GLBA, HIPAA, Fair Housing, and PCI DSS.",
+      "license": "MIT",
+      "keywords": ["legal", "compliance", "accessibility", "privacy", "wcag", "gdpr", "ccpa", "coppa", "bipa", "hipaa", "fair-housing", "pci-dss"]
+    }
+  ]
+}

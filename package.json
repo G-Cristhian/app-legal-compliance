@@ -1,0 +1,11 @@
+{
+  "name": "app-legal-compliance",
+  "private": true,
+  "description": "Check applications against laws that commonly result in lawsuits: ADA/WCAG, GDPR, CCPA, COPPA, BIPA, GLBA, HIPAA, Fair Housing, and PCI DSS.",
+  "license": "MIT",
+  "repository": "github:G-Cristhian/app-legal-compliance",
+  "keywords": ["pi-package", "legal", "compliance", "accessibility", "privacy", "wcag", "gdpr", "ccpa", "coppa", "bipa", "hipaa", "fair-housing", "pci-dss"],
+  "pi": {
+    "skills": ["./"]
+  }
+}
